@@ -1,6 +1,6 @@
 
 
-    👋 Hi, I’m Ashley O'Connor
+    👋 Hi, I’m Ashley O'Connor.
 
     👀 I’m interested in 🏂, ✈️, 🎵 & 🖥️.
 
