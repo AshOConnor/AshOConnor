@@ -1,4 +1,6 @@
-<h1>Hi!👋</h1>
+<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"></h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AshOConnor" alt="AshOConnor" /> </p>
 
 <h2>📣 About Me</h2>
 <p>🎓 I am Ashley O'Connor, I am currently studying for a <b>Bachelor of Information Technology</b> at <b>RMIT University</b> in Melbourne Australia through online study. I am currently driving trucks for work while I continue with my degree to be able to support my family.</p>
