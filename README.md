@@ -10,7 +10,7 @@
 <p>✈️ I love <b>travelling</b> and have already been to multiple countries. The most recent travelling adeventure I went on was to <b>Cambodia</b> for a friends wedding in 2020. 
 </p>
 <h2>🏅 Achivements</h2>
-<p>&#x2022; 🏉<b>2013 Paynesville Football Club Senior Premiership Player</b>
-
+  <p>&#x2022; 🏉<b>2013 Paynesville Football Club Senior Premiership Player</b></p>
+  
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
