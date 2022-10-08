@@ -16,5 +16,5 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "My commit message to update badges"
-          CREDLY_USER: <ashley-o-connor.97db394f>
+          CREDLY_USER: <ashley-o-connor.97db394f_credly>
           CREDLY_SORT: POPULAR
