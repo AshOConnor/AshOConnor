@@ -12,4 +12,5 @@ jobs:
       - name: Badges - Readme
         uses: AshOConnor/badge-readme@main
         with:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
         CREDLY_USER: <ashley-o-connor.97db394f> # optional, but default will use the same from github
