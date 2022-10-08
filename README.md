@@ -11,5 +11,8 @@
 </p>
 <h2>🏅 Achivements</h2>
 <p>&#x2022; 🏉<b>2013 Paynesville Football Club Senior Premiership Player</b></p>
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->  
+
+![Ash`s GitHub stats](https://github-readme-stats.vercel.app/api?username=AshOConnor&show_icons=true&theme=radical)
