@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: AshOConnor/badge-readme@main
+        uses: pemtajo/badge-readme@main
         with:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        CREDLY_USER: <ashley-o-connor.97db394f> # optional, but default will use the same from github
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "My commit message to update badges"
+          CREDLY_USER: <ashley-o-connor.97db394f>
+          CREDLY_SORT: POPULAR
