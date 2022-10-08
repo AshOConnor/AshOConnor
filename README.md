@@ -12,6 +12,7 @@
 <h2>🏅 Achivements</h2>
 <p>&#x2022; 🏉<b>2013 Paynesville Football Club Senior Premiership Player</b></p>
 
+<h3>📕 My Badges
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->  
 
