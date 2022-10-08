@@ -14,7 +14,7 @@
 
 <h3>📕 My Badges</h3>
 <!--START_SECTION:badges-->
-<!--END_SECTION:badges-->  
+<!--END_SECTION:badges-->
 
 <break>
   
