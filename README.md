@@ -31,7 +31,7 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"></h2>
 <p> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"/> <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="CSS" width="40" height="40"/> </p> </a>
 
-<h2>My Badges 📕</h2>https:
+<h2>My Badges 📕</h2>
 
 <!--START_SECTION:badges-->
 [![Presenting Using Story](https://images.credly.com/size/150x150/images/598f2073-6d4a-4326-8aef-5eb67a2cafd4/cd5df1e1d4b7dfb315f4124dca8476fe.png)](http://www.credly.com/badges/a9d1a01c-2400-4ebe-8ab0-8760b419771d "Presenting Using Story")
