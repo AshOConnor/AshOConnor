@@ -17,15 +17,15 @@
 <p>&#x2022; <b>2013 Paynesville Football Club Senior Premiership Player 🏉</b>
 </p>
 <p><b>2021 University Results: ✔️</b></p>
-<p>&#x2022; Intro to Info Technology {HD}</p>
-<p>&#x2022; Introduction to Programming (Python) {HD}</p>
+<p>&#x2022; Intro to Info Technology [HD]</p>
+<p>&#x2022; Introduction to Programming (Python) [HD]</p>
 
 <p><b>2022 University Results: ✔️</b></p>
-<p>&#x2022; Intro to Computer Systems {DI}</p>
-<p>&#x2022; Building IT Systems {HD}</p>
-<p>&#x2022; Database Concepts (SQLite) {DI}</p>
-<p>&#x2022; User-centred Design {DI}</p>
-<p>&#x2022; Web Programming {TBA}</p>
+<p>&#x2022; Intro to Computer Systems [DI]</p>
+<p>&#x2022; Building IT Systems [HD]</p>
+<p>&#x2022; Database Concepts (SQLite) [DI]</p>
+<p>&#x2022; User-centred Design [DI]</p>
+<p>&#x2022; Web Programming [TBA]</p>
 <break>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"></h2>
