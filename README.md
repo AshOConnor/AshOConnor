@@ -19,6 +19,8 @@
 <p>• Database Concepts (SQLite) [DI]</p>
 <p>• User-centred Design [DI]</p>
 <p>• Web Programming [TBA]</p><br>
+<p><b>2023 University Results: ✔️</b></p>
+<p>• Programming 1 [TBA]</p><br>
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32" alt="Skills"></h2>
 <p><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"></a> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"></a> <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="CSS" width="40" height="40"></a></p>
 <h2>My Badges 📕</h2>
