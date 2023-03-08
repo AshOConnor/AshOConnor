@@ -9,7 +9,8 @@
 <p>🌱 Outside the world of technology, I love my outdoor sports. I play <b>football</b> for my local area in the senior division, ride my <b>mountain bike</b> on-road and off-road, go <b>snowboarding</b> in the Winter and go out on the lake for some <b>water sports</b> in the Summer.</p><br>
 <p>✈️ I love <b>travelling</b> and have already been to multiple countries. The most recent overseas travelling adeventure I went on was to <b>Cambodia</b> for a friends wedding in 2020.</p>
 <h2>Achivements 🏅</h2>
-<p>• <b>2013 Paynesville Football Club Senior Premiership Player 🏉</b></p><br>
+<p><b>2013 Paynesville Football Club: 🏉</b></p>
+<p>• Senior Premiership Player</p><br>
 <p><b>2021 University Results: ✔️</b></p>
 <p>• Intro to Info Technology [HD]</p>
 <p>• Introduction to Programming (Python) [HD]</p><br>
