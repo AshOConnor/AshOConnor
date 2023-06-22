@@ -1,10 +1,11 @@
 <h1>Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50" alt="Wave"></h1>
-<p><img src="https://komarev.com/ghpvc/?username=AshOConnor" alt="AshOConnor"></p>
+<p>I'm Ash!</p>
 <h2>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" alt="Handshake"></h2>
-<p><a href="https://www.linkedin.com/in/ash-oconnor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
-<p><a href="https://www.twitch.tv/mcseshin" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&amp;logo=Twitch&amp;logoColor=white" alt="Twitch"></a></p>
+<p><a href="https://github.com/AshOConnor/" target="_blank"><img src="https://img.shields.io/github/followers/AshOConnor?label=follow&logo=github&style=flat" alt="FollowMe"></a></p>
+<p><a href="https://www.linkedin.com/in/ash-oconnor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=linkedin" alt="LinkedIn"></a></p>
+<p><img src="https://komarev.com/ghpvc/?username=AshOConnor" alt="AshOConnor"></p>
 <h2>About Me 📣</h2>
-<p>🎓 I'm Ashley O'Connor, currently pursuing a <b>Bachelor of Information Technology</b> at <b>RMIT University</b> in Melbourne, Australia, through online study. I work as a truck driver to support my family while continuing my degree.</p>
+<p>🎓 I'm currently pursuing a <b>Bachelor of Information Technology</b> at <b>RMIT University</b> in Melbourne, Australia, through online study. I work as a truck driver to support my family while continuing my degree.</p>
 <p>🖥️ I'm an avid gamer and relish long gaming sessions with friends whenever I have the time. During my studies, I've found immense satisfaction in subjects focused on <b>programming</b> and <b>web development</b>. I approach my work with enthusiasm and take pride in my accomplishments. Exploring these sectors before or after completing my degree is my aspiration. I've acquired proficiency in <b>Python</b>, <b>HTML</b>, <b>CSS</b>, and have a basic understanding of <b>JavaScript</b>. I'm continuously honing my skills and expanding my knowledge in these areas and beyond.</p>
 <p>🌱 Beyond the world of technology, I have a passion for outdoor sports. I actively participate in <b>football</b> in the senior division for my local area, enjoy both on-road and off-road <b>mountain biking</b>, engage in <b>snowboarding</b> during the winter, and relish <b>water sports</b> on the lake during the summer.</p>
 <p>✈️ I'm an avid traveler and have already explored multiple countries. One of my most recent overseas adventures was attending a friend's wedding in <b>Cambodia</b> in 2020.</p>
@@ -21,7 +22,7 @@
 <p>• User-centred Design [DI]</p>
 <p>• Web Programming [HD]</p><br>
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32" alt="Skills"></h2>
-<p><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"></a> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"></a> <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="CSS" width="40" height="40"></a></p>
+<p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite" alt="skills"></a></p>
 <h2>My Badges 📕</h2>
 
 <!--START_SECTION:badges-->
