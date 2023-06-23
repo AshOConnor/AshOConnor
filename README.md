@@ -22,7 +22,7 @@
 <p>• User-centred Design [DI]</p>
 <p>• Web Programming [HD]</p><br>
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32" alt="Skills"></h2>
-<p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite" alt="skills"></a></p>
+<p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=python,html,css,php,js,sqlite" alt="skills"></a></p>
 <h2>My Badges 📕</h2>
 
 <!--START_SECTION:badges-->
