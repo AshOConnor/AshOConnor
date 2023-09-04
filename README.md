@@ -8,7 +8,7 @@
 <h3>🎓</h3>
 <p>I'm currently pursuing a <b>Bachelor of Information Technology</b> at <b>RMIT University</b> in Melbourne, Australia, through online study. I work as a truck driver to support my family while continuing my degree.</p>
 <h3>🖥️</h3>
-<p>I'm an avid gamer and relish long gaming sessions with friends whenever I have the time. During my studies, I've found immense satisfaction in subjects focused on <b>programming</b> and <b>web development</b>. I approach my work with enthusiasm and take pride in my accomplishments. Exploring these sectors before or after completing my degree is my aspiration. I've acquired proficiency in <b>Python</b>, <b>HTML</b>, <b>CSS</b>, and have a basic understanding of <b>JavaScript</b>. I'm continuously honing my skills and expanding my knowledge in these areas and beyond.</p>
+<p>I'm an avid gamer and relish long gaming sessions with friends whenever I have the time. During my studies, I've found immense satisfaction in subjects focused on <b>programming</b> and <b>web development</b>. I approach my work with enthusiasm and take pride in my accomplishments. Exploring these sectors before or after completing my degree is my aspiration. I've acquired skill in <b>Python</b>, <b>HTML</b>, <b>CSS</b>, and have a basic understanding of <b>JavaScript</b>. I'm continuously honing my skills and expanding my knowledge in these areas and beyond.</p>
 <h3>🌱</h3>
 <p>Beyond the world of technology, I have a passion for outdoor sports. I actively participate in <b>football</b> in the senior division for my local area, enjoy both on-road and off-road <b>mountain biking</b>, engage in <b>snowboarding</b> during the winter, and relish <b>water sports</b> on the lake during the summer.</p>
 <h3>✈️</h3>
