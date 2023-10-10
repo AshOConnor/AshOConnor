@@ -1,7 +1,7 @@
 <h1>Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"></h1>
 <p> <img src="https://komarev.com/ghpvc/?username=AshOConnor" alt="AshOConnor" /> </p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
+<h2> Connect with me ![Handshake](Assets/handshake.gif)</h2>
 <p> <a href="https://www.linkedin.com/in/ash-oconnor/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a></p>
 <p> <a href="https://www.twitch.tv/mcseshin" target="_blank"> <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="LinkedIn"/> </a></p>
 
@@ -35,9 +35,11 @@
 <h2>My Badges 📕</h2>
 
 <!--START_SECTION:badges-->
+
 [![Presenting Using Story](https://images.credly.com/size/150x150/images/598f2073-6d4a-4326-8aef-5eb67a2cafd4/cd5df1e1d4b7dfb315f4124dca8476fe.png)](http://www.credly.com/badges/a9d1a01c-2400-4ebe-8ab0-8760b419771d "Presenting Using Story")
 [![Creative thinking essentials](https://images.credly.com/size/150x150/images/59938b23-a0df-4515-b296-adb6f89057d3/f6108f81379233b239a0df742cc3c222.png)](http://www.credly.com/badges/35c0de4f-e799-4f0b-9425-9ba21878cd4a "Creative thinking essentials")
 [![Agile Ways of Working](https://images.credly.com/size/150x150/images/ba031ea5-9a15-4d02-9746-5f7998db0587/29bf79722dfce48eadd17a0ebf836f46.png)](http://www.credly.com/badges/0f7253ac-317b-4905-9ef1-b921b6b12412 "Agile Ways of Working")
+
 <!--END_SECTION:badges-->
 <break>
 
