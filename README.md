@@ -1,7 +1,7 @@
-<h1>Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"></h1>
+<h1>Hi! <img src = "assets/wave.gif" alt="Wave" width="50" height="50"></h1>
 <p> <img src="https://komarev.com/ghpvc/?username=AshOConnor" alt="AshOConnor" /> </p>
 
-<h2> Connect with me <img src='assets/handshake.gif' width="100"> </h2>
+<h2> Connect with me <img src='assets/handshake.gif' alt="Handshake" width="100" > </h2>
 <p> <a href="https://www.linkedin.com/in/ash-oconnor/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a></p>
 <p> <a href="https://www.twitch.tv/mcseshin" target="_blank"> <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="LinkedIn"/> </a></p>
 
@@ -14,7 +14,7 @@
 <break>
 <p>✈️ I love <b>travelling</b> and have already been to multiple countries. The most recent overseas travelling adeventure I went on was to <b>Cambodia</b> for a friends wedding in 2020. 
 </p>
-<h2>Achivements 🏅</h2>
+<h2>Achievements 🏅</h2>
 <p>&#x2022; <b>2013 Paynesville Football Club Senior Premiership Player 🏉</b>
 </p>
 <p><b>2021 University Results: ✔️</b></p>
