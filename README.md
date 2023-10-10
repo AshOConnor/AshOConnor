@@ -1,7 +1,7 @@
 <h1>Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"></h1>
 <p> <img src="https://komarev.com/ghpvc/?username=AshOConnor" alt="AshOConnor" /> </p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
+<h2> Connect with me ![Handshake](Assets/handshake.gif)</h2>
 <p> <a href="https://www.linkedin.com/in/ash-oconnor/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a></p>
 <p> <a href="https://www.twitch.tv/mcseshin" target="_blank"> <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="LinkedIn"/> </a></p>
 
