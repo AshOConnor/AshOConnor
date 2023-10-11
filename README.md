@@ -2,7 +2,7 @@
   <img src="assets/ashoconnor.png" alt="websitelogo" width="250" height="250">
 </p>
 
-<h1 align="center">Hello, I'm Ash O'Connor <img src="assets/wave.gif" width="2%" height="2%"></h1>
+<h1 align="center">Hello, I'm Ash O'Connor <img src="assets/wave.gif" width="50px" height="50px"></h1>
 
 **Connect with me** <img src="assets/handshake.gif" alt="Handshake" width="50"/>  
 
@@ -12,7 +12,7 @@
 
 **About Me 🚀**
 
-Hey there! I'm Ashley O'Connor, and I'm on an exciting journey in the world of technology and beyond. Here's a bit about me:
+Hey there! I'm on an exciting journey in the world of technology and beyond. Here's a bit about me:
 
 - 🎓 I'm currently pursuing a **Bachelor of Information Technology**, while being a stay at home father.
 
