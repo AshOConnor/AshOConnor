@@ -1,9 +1,10 @@
 <h1>Hi! <img src = "assets/wave.gif" alt="Wave" width="50" height="50"></h1>
-<p> <img src="https://komarev.com/ghpvc/?username=AshOConnor" alt="AshOConnor" /> </p>
+<p>Hi my name is Ash!</p>
 
 <h2> Connect with me <img src='assets/handshake.gif' alt="Handshake" width="100" > </h2>
 <p> <a href="https://www.linkedin.com/in/ash-oconnor/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a></p>
 <p> <a href="https://www.twitch.tv/mcseshin" target="_blank"> <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="LinkedIn"/> </a></p>
+<p> <img src="https://komarev.com/ghpvc/?username=AshOConnor" alt="AshOConnor" /> </p>
 
 <h2>About Me 📣</h2>
 <p>🎓 I am Ashley O'Connor, I am currently studying for a <b>Bachelor of Information Technology</b> at <b>RMIT University</b> in Melbourne Australia through online study. I am currently driving trucks for work while I continue with my degree to be able to support my family.</p>
