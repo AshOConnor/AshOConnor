@@ -4,6 +4,7 @@
 
 <h1 align="center">Hello, I'm Ash O'Connor <img src="assets/wave.gif" width="50px" height="50px"></h1>
 
+<img src="https://komarev.com/ghpvc/?username=AshOConnor&label=Profile%20views&color=0e75b6&style=flat" alt="AshOConnor" />
 
 **Connect with me** <img src="assets/handshake.gif" alt="Handshake" width="50"/>  
 
