@@ -19,10 +19,8 @@ Hey there! I'm on an exciting journey in the world of technology and beyond. Her
 
 - 🎮 I'm an avid gamer. I love diving into epic gaming sessions with friends, whether it's conquering worlds, solving puzzles, or teaming up in multiplayer battles.
 
-- 💻 My tech journey involves a deep passion for programming and web development. I've dipped my toes into various languages and technologies, including **Python**, **HTML**, **CSS**, and I'm getting comfortable with **JavaScript**. Building and creating in the digital space excites me.
-
-- ⚽ Beyond the screen, I'm a sports enthusiast. I kick the ball around in local football matches, hit the trails on my trusty mountain bike, carve through snow on my snowboard during winter, and make a splash in water sports come summertime.
-
+- 💻 My tech journey involves a passion for programming and web development. I've dipped my toes into various languages and technologies, including **Python**, **HTML**, **CSS**, and I'm getting comfortable with **JavaScript**. Building and creating in the digital space excites me.
+- 
 <br>
 
 <p align="center" <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoconnor" alt="ashoconnor" /></a> </p>
