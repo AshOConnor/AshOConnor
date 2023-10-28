@@ -71,6 +71,8 @@ Hey there! I'm on an exciting journey in the world of technology and beyond. Her
 
 <p align="center"><strong>My GitHub Stats ✍️</strong></p>
 
+  <p align="center" <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoconnor" alt="ashoconnor" /></a> </p>
+  
   <div align="center">
     <table>
       <tr>
@@ -83,6 +85,5 @@ Hey there! I'm on an exciting journey in the world of technology and beyond. Her
       </tr>
     </table>
   </div>
-  <p align="center" <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoconnor" alt="ashoconnor" /></a> </p>
 
 
