@@ -29,7 +29,7 @@ Hey there! I'm on an exciting journey in the world of technology and beyond. Her
 </p>
 
 <p align="center">
-- 💻 My tech journey involves a passion for programming and web development. I've dipped my toes into various languages and technologies, including <strong>Python</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and I'm getting comfortable with <strong>JavaScript</strong>. Building and creating in the digital space excites me.
+- 💻 My tech journey involves a passion for programming and web development. I've dipped my toes into various languages and technologies, including <strong>Python</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> and <strong>PHP</strong>. Building and creating in the digital space excites me.
 </p>
 <br>
 
@@ -41,6 +41,10 @@ Hey there! I'm on an exciting journey in the world of technology and beyond. Her
   <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"></a>
   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"></a>
   <a href="https://www.sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQlite" width="40" height="40"></a>
+  <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"><a>
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"></a>
+  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="VSCode" width="40" height="40"></a>
+
 </p>
 
 <br>
