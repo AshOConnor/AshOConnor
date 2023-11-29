@@ -11,7 +11,9 @@
 <p align="center"><strong>Connect with me</strong> <img src="assets/handshake.gif" alt="Handshake" width="50" /></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ash-oconnor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <p align="center"><strong>About Me 🚀</strong></p>
