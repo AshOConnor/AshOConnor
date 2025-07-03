@@ -23,7 +23,7 @@ Hey there! I'm on an exciting journey in the world of technology and beyond. Her
 </p>
 
 <p align="center">
-- 🎓 I'm currently pursuing a <strong>Bachelor of Information Technology</strong>, while being a stay at home father.
+- 🎓 Graduated with a <strong>Diploma of Information Technology</strong> in 2025.
 </p>
 
 <p align="center">
